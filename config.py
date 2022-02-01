@@ -9,6 +9,6 @@ DEBUG = True
 # Connect to the database
 
 # TODO IMPLEMENT DATABASE URL
-SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:123123@localhost:5432/fyyur'
+DATABASE_URI = 'postgres://gtuqhqanoxufnl:815acb66b2d4c39cde71934d5baf046f7561daa1c506767461019b89feb25e58@ec2-54-208-139-247.compute-1.amazonaws.com:5432/d9l02jj9k6snb6'
 # Remove console warning
 SQLALCHEMY_TRACK_MODIFICATIONS = False
